@@ -3,3 +3,8 @@ nav{
     list-style-type: none;
     justify-content: center;
 }
+nav li {
+    border: 1px solid black;
+    list-style-type: none;
+    display: inline;
+}
