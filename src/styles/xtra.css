@@ -2,28 +2,33 @@
 .onlineResources h1{
     display: flex;
     justify-content: center;
+    font-size: 40px;
 }
 .business h1 {
     display: flex;
     justify-content: center;
+    font-size: 30px;
 }
 .business h1 {
     display: flex;
     justify-content: center;
+    font-size: 30px;
 }
 .business h2 {
     display: flex;
     justify-content: center;
+    font-size: 30px;
 }
 .tour h1 {
     display: flex;
     justify-content: center;
+    font-size: 30px;
 }
 .tour h2 {
     display: flex;
     justify-content: center;
+    font-size: 30px;
 }
-
 /*content*/
 .onlineResources ul {
     display: flex;
@@ -31,10 +36,18 @@
     flex-wrap: wrap;
 }
 .charities {
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
-    width: 80%;
-    margin: 5px 10px;
+    text-align: center;
+    list-style-type: none;
+}
+.businessList {
+    text-align: center;
+    list-style-type: none;
+}
+.cTour {
+    text-align: center;
+    list-style-type: none;
+}
+.pTour {
+    text-align: center;
     list-style-type: none;
 }
