@@ -7,8 +7,10 @@
 .career-intro-container h1 {
     text-align: center;
 }
-.career-intro-container img {
+.career-intro-container img,
+.intro-text {
     width: 50%;
+    padding: 10px;
 }
 .intro-content {
     display: flex;
