@@ -1,0 +1,15 @@
+/* Intro section */
+.career-intro-container {
+    background-color: aqua;
+    
+}
+
+.career-intro-container h1 {
+    text-align: center;
+}
+.career-intro-container img {
+    width: 50%;
+}
+.intro-content {
+    display: flex;
+}
