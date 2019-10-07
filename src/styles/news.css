@@ -1,3 +1,23 @@
 ol {
     list-style-type: none;
+    padding-inline-start: 0;
+}
+
+.div--row {
+    display: flex;
+}
+
+.div--row p {
+    margin-block-start: 0;
+    margin-left: 20px;
+}
+
+.p--margin-block-end {
+    margin-block-start: 0;
+    margin-block-end: 1em;
+}
+
+.h3--margin {
+    margin-block-start: .5em;
+    margin-block-end: .5em;
 }
