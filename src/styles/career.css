@@ -1,9 +1,9 @@
 /* Intro section */
 .career-intro-container {
-    margin: 175px 0;
+    margin-bottom: 175px 0;
 }
 
-.career-intro-container h1 {
+.title {
     text-align: center;
     margin-bottom: 75px;
 }
