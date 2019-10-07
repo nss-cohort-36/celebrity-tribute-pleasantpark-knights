@@ -8,3 +8,11 @@ nav li {
     list-style-type: none;
     display: inline;
 }
+
+.footer {
+    display: flex;
+}
+
+.footer__section--left {
+    flex-basis: 70%;
+}
