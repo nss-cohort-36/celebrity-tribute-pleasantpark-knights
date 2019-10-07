@@ -78,7 +78,12 @@
 
 /* Places Lived Section */
 .places-lived {
+    margin: 175px 0;
     text-align: center;
+}
+
+.places-lived h2 {
+    margin-bottom: 50px;
 }
 
 .places-lived ul {
