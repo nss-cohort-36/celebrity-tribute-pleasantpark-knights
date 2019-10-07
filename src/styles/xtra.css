@@ -1,0 +1,7 @@
+.onlineResources h1 {
+    display: flex;
+    justify-content: center;
+}
+.onlineResources ul {
+    display: flex;   
+}
