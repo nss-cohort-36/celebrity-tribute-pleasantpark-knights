@@ -8,6 +8,7 @@
 	width: 25%;
 }
 
-.subheader {
-
+.article {
+	display: flex;
+	justify-content: center;
 }
