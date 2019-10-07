@@ -1,0 +1,13 @@
+.collab {
+	display: flex;
+	justify-content: center;
+	width: 75%;
+}
+
+.collab__img {
+	width: 25%;
+}
+
+.subheader {
+
+}
