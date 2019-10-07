@@ -1,4 +1,21 @@
-nav{
+@font-face {
+  font-family: Klaxons;
+  src: url(../Klaxons.otf);
+}
+
+.logo {
+    font-family: Klaxons;
+    color: magenta;
+    text-shadow: 0 0 3px #FF0000;
+}
+
+.title {
+	font-family: Klaxons;
+    color: magenta;
+    text-shadow: 0 0 3px #FF0000;
+}
+
+nav {
     display: flex;
     list-style-type: none;
     justify-content: center;
