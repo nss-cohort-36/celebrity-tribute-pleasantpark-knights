@@ -1,0 +1,40 @@
+/*Headers*/
+.onlineResources h1{
+    display: flex;
+    justify-content: center;
+}
+.business h1 {
+    display: flex;
+    justify-content: center;
+}
+.business h1 {
+    display: flex;
+    justify-content: center;
+}
+.business h2 {
+    display: flex;
+    justify-content: center;
+}
+.tour h1 {
+    display: flex;
+    justify-content: center;
+}
+.tour h2 {
+    display: flex;
+    justify-content: center;
+}
+
+/*content*/
+.onlineResources ul {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.charities {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: 5px 10px;
+    list-style-type: none;
+}
