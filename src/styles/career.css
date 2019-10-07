@@ -1,0 +1,96 @@
+/* Intro section */
+.career-intro-container {
+    margin: 175px 0;
+}
+
+.career-intro-container h1 {
+    text-align: center;
+    margin-bottom: 75px;
+}
+.career-intro-container img,
+.intro-text {
+    width: 40%;
+}
+.intro-content {
+    display: flex;
+    justify-content: space-around;
+}
+
+/* Credentials section */
+.credentials {
+    margin: 175px 0;
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+}
+
+.skills h2,
+.awards h2 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+/* Albums section */
+.albums-container{
+    margin: 175px 0;
+}
+
+.albums-container h2 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.albums {
+    display: flex;
+    justify-content: space-around;
+}
+
+.album {
+    flex-basis: 33%;
+    text-align: center;
+}
+
+.album img {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 2px;
+    text-align: center;
+}
+
+.album ul {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+}
+.album li {
+    list-style: none;
+    justify-content: flex-start;
+}
+
+.album-title {
+    font-weight: bold;
+}
+
+.colab {
+    font-style: italic;
+}
+
+/* Places Lived Section */
+.places-lived {
+    margin: 175px 0;
+    text-align: center;
+}
+
+.places-lived h2 {
+    margin-bottom: 50px;
+}
+
+.places-lived ul {
+    padding: 0;
+}
+
+.places-lived li {
+    list-style: none;
+    padding-top: 10px;
+}
