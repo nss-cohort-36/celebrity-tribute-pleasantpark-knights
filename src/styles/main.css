@@ -13,6 +13,9 @@
 	font-family: Klaxons;
     color: magenta;
     text-shadow: 0 0 3px #FF0000;
+    display: flex;
+    justify-content: center;
+    font-size: 70px;
 }
 
 nav {
