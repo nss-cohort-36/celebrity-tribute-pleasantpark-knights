@@ -1,4 +1,13 @@
-nav{
+@font-face {
+  font-family: Klaxons;
+  src: url(./assets/Klaxons.otf);
+}
+
+.pageTitle {
+	font-family: Klaxons;
+}
+
+nav {
     display: flex;
     list-style-type: none;
     justify-content: center;
