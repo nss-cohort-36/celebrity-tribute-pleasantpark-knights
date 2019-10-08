@@ -1,19 +1,23 @@
 /* Intro section */
-.career-intro-container {
-    margin-bottom: 175px 0;
-}
+
 
 .title {
     text-align: center;
-    margin-bottom: 75px;
+    margin-bottom: 175px;
 }
 .career-intro-container img,
 .intro-text {
     width: 40%;
 }
+
+.career-intro-container img {
+    border: 1px solid black;
+    border-radius: 3px;
+}
 .intro-content {
     display: flex;
     justify-content: space-around;
+    margin-bottom: 175px;
 }
 
 /* Credentials section */
@@ -28,6 +32,17 @@
 .awards h2 {
     text-align: center;
     margin-bottom: 50px;
+}
+
+.skills,
+.awards {
+    max-width: 300px;
+    min-width: 150px;
+}
+
+.skills li,
+.awards li {
+    padding: 10px 0;
 }
 
 /* Albums section */
@@ -51,8 +66,8 @@
 }
 
 .album img {
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 250px;
     border: 1px solid black;
     border-radius: 2px;
     text-align: center;
