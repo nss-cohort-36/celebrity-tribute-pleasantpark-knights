@@ -22,9 +22,11 @@ nav {
     display: flex;
     list-style-type: none;
     justify-content: center;
+    font-family: Klaxons;
+
 }
 nav li {
-    border: 1px solid black;
+    
     list-style-type: none;
     display: inline;
 }
