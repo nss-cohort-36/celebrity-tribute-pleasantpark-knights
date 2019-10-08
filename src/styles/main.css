@@ -48,6 +48,7 @@ nav {
 }
 
 nav li {
+    
     list-style-type: none;
     display: inline;
     font-size: 14px;
