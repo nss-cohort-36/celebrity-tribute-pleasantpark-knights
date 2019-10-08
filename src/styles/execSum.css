@@ -1,0 +1,31 @@
+.article {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.article__content {
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+	padding-bottom: 25px;
+}
+
+.article__subheader {
+	text-transform: uppercase;
+	font-weight: bold;
+	color: #8b0045;
+}
+
+.article__content--mod {
+	display: flex;
+	justify-content: center;
+}
+
+.article__img {
+	width: 20%;
+}
+
+strong {
+	color: #8b0045;
+}

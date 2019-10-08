@@ -3,30 +3,75 @@
   src: url(../Klaxons.otf);
 }
 
+.body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    line-height: 20px;
+    background: lightyellow;
+}
+
 .logo {
     font-family: Klaxons;
-    color: magenta;
-    text-shadow: 0 0 3px #FF0000;
+    color: purple;
+    text-shadow: 0 0 5px #FF0000;
+    margin-left: 18px;
+    padding-top: 15px;
+    padding-left: 2px;
+    width: 51px;
+    height: 34px;
+    border: 1px solid pink;
+    text-align: center;
+    background-color: white;
+    float: left;
+}
+
+.logo a {
+    text-decoration: none;
 }
 
 .title {
 	font-family: Klaxons;
-    color: magenta;
-    text-shadow: 0 0 3px #FF0000;
+    color: purple;
+    text-shadow: 0 0 5px #FF0000;
     display: flex;
     justify-content: center;
     font-size: 70px;
+    font-weight: 550;
 }
 
 nav {
     display: flex;
     list-style-type: none;
     justify-content: center;
+    padding-top: 20px;
+    padding-right: 120px;
 }
+
 nav li {
-    border: 1px solid black;
     list-style-type: none;
     display: inline;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+nav a, nav a:visited {
+    text-decoration: none;
+    color: #8b0045;
+}
+
+nav a:hover {
+    color: lightpink;
+}
+
+strong {
+    color: #8b0045;
+}
+
+.article__subheader {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #8b0045;
 }
 
 .footer {
