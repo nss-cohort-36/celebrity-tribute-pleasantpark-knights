@@ -1,3 +1,6 @@
+.nav {
+    padding-right: 0px;
+}
 /*Headers*/
 .onlineResources h1{
     display: flex;
@@ -25,4 +28,7 @@
 .pTour {
     text-align: center;
     list-style-type: none;
+}
+body {
+    color: #8b0045;
 }
