@@ -1,12 +1,29 @@
 section img {
     height: 200px;
     width: 100%;
+    box-shadow: 10px 10px 5px grey;
+
 }
 
 ul {
     list-style-type: none;
 }
 
+.spouses-container {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
 .spouses {
     display: flex;
+    /* justify-content: space-between; */
 }
+
+ .spouses-container img {
+    flex-basis: 30%;
+    box-shadow: 10px 10px 5px grey;
+}
+
+
+
