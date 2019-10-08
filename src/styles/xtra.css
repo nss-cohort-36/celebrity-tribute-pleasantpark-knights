@@ -1,53 +1,35 @@
+.nav {
+    padding-right: 0px;
+    padding-top: 0;
+}
 /*Headers*/
 .onlineResources h1{
     display: flex;
     justify-content: center;
     font-size: 40px;
 }
-.business h1 {
+.business h1,
+.business h2,
+.tour h1,
+.tour h2  {
     display: flex;
-    justify-content: center;
     font-size: 30px;
-}
-.business h1 {
-    display: flex;
     justify-content: center;
-    font-size: 30px;
 }
-.business h2 {
-    display: flex;
-    justify-content: center;
-    font-size: 30px;
-}
-.tour h1 {
-    display: flex;
-    justify-content: center;
-    font-size: 30px;
-}
-.tour h2 {
-    display: flex;
-    justify-content: center;
-    font-size: 30px;
-}
+
 /*content*/
 .onlineResources ul {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
 }
-.charities {
-    text-align: center;
-    list-style-type: none;
-}
-.businessList {
-    text-align: center;
-    list-style-type: none;
-}
-.cTour {
-    text-align: center;
-    list-style-type: none;
-}
+.charities,
+.businessList,
+.cTour,
 .pTour {
     text-align: center;
     list-style-type: none;
+}
+body {
+    color: #8b0045;
 }
