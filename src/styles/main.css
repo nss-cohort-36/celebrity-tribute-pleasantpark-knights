@@ -65,7 +65,8 @@ nav a:hover {
     color: lightpink;
 }
 
-strong {
+strong,
+.strong {
     color: #8b0045;
 }
 
