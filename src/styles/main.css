@@ -64,6 +64,16 @@ nav a:hover {
     color: lightpink;
 }
 
+strong {
+    color: #8b0045;
+}
+
+.article__subheader {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #8b0045;
+}
+
 .footer {
     display: flex;
 }
