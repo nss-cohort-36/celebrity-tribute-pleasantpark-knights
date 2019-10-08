@@ -2,6 +2,7 @@ section img {
     height: 200px;
     width: 100%;
     box-shadow: 10px 10px 5px grey;
+
 }
 
 ul {
@@ -11,6 +12,7 @@ ul {
 .spouses-container {
     display: flex;
     justify-content: space-between;
+    
 }
 
 .spouses {
@@ -22,3 +24,6 @@ ul {
     flex-basis: 30%;
     box-shadow: 10px 10px 5px grey;
 }
+
+
+
