@@ -78,6 +78,7 @@ strong,
 
 .footer {
     display: flex;
+    padding-top: 50px;
 }
 
 .footer__section--left {

@@ -7,6 +7,7 @@
     display: flex;
     justify-content: center;
     font-size: 40px;
+    color:  #8b0045;
 }
 .business h1,
 .business h2,
@@ -15,6 +16,7 @@
     display: flex;
     font-size: 30px;
     justify-content: center;
+    color:  #8b0045;
 }
 
 /*content*/
@@ -29,7 +31,5 @@
 .pTour {
     text-align: center;
     list-style-type: none;
-}
-body {
-    color: #8b0045;
+    padding-right: 50px;
 }
